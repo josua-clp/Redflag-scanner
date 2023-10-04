@@ -14,7 +14,7 @@ def display_menu():
     print("2. Info")
     print("4. Exit")
 
-    print(colored("{:^69}".format("Think twice!\n"), "red"))
+    print(colored("{:^69}".format("Github: https://github.com/josua-clp/Redflag-scanner\n"), "red"))
 
 def get_user_choice():
     choice = input("Enter your choice (1-4): ")
