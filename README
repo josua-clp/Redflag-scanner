@@ -1,0 +1,62 @@
+
+                                 _|_|_|                    _|      _|_|  _|                      
+                                 _|    _|    _|_|      _|_|_|    _|      _|    _|_|_|    _|_|_|  
+                                 _|_|_|    _|_|_|_|  _|    _|  _|_|_|_|  _|  _|    _|  _|    _|  
+                                 _|    _|  _|        _|    _|    _|      _|  _|    _|  _|    _|  
+                                 _|    _|    _|_|_|    _|_|_|    _|      _|    _|_|_|    _|_|_|  
+                                                                                             _|  
+                                                                                           _|_|    
+
+                                                       Website Scanner
+                                                 +--------------------------+
+
+🔍 The Redflag Website Scanner is a powerful tool that can help you detect malicious websites and protect your online security. This open-source program is available on GitHub, and it's completely free to use.
+
+👀 With the Redflag Website Scanner, you can scan any website for suspicious activity and get a report of its security status. The program uses a variety of techniques to analyze the website's code and behavior, including:
+
+🔒 Checking for SSL certificates and HTTPS protocols to ensure secure data transfer
+👥 Looking for hidden links, redirects, and pop-ups that might be phishing attempts
+🔍 Scanning for common malware signatures and vulnerabilities in the website's code
+🚫 Flagging any suspicious or blacklisted domains that the website might be associated with
+
+📈 The Redflag Website Scanner can also help you keep track of your scanned websites and monitor 
+   their security over time. You can save your scan results and view them later, or set up scheduled scans 
+   to automatically check the website's security on a regular basis.
+
+💻 This tool is designed to be user-friendly and easy to use, even 
+    if you don't have a lot of technical expertise. The program's interface is simple and intuitive, 
+    and you can easily navigate through the different scanning options and settings.
+
+🌐 Whether you're a web developer, security researcher, or just someone who wants to stay safe online,
+    the Redflag Website Scanner is a valuable tool to have in your arsenal. So why not give it a try and see 
+    how it can help you protect your online security today?
+
+                                                      Requirements
+                                               +--------------------------+
+
+To run this script, you'll need to have Python 3 installed on your computer. You can download it from the [official Python website](https://www.python.org/downloads/).
+
+You will also need to install the following Python libraries:
+
+pip install requests
+pip install bs4
+pip install lxml
+pip install sqlite3
+pip install configparser
+pip install termcolor 
+pip install colored
+
+You can install all of them by running the following command:
+
+pip install -r requirements.txt
+
+                                                         License
+                                              +--------------------------+
+ 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+                                                     Acknowledgments
+                                              +--------------------------+
+
+This project was inspired by the [OWASP Top Ten Project](https://owasp.org/www-project-top-ten/).
+

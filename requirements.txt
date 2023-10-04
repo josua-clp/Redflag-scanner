@@ -1,0 +1,14 @@
+requests
+bs4
+lxml
+sqlite3
+db-sqlite3
+configparser
+termcolor
+colored
+ssl
+urllib3
+re
+socket
+os
+getpass
