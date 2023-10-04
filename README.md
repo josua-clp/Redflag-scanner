@@ -1,7 +1,7 @@
 <h1 align="center">Redflag Website Scanner 🚩</h1>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1-mgreen" alt="Version">
+  <img src="https://img.shields.io/badge/version-v0.1-mgreen" alt="Version">
   <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
   <img src="https://img.shields.io/badge/status-alpha-red" alt="Status">
 </p>
