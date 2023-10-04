@@ -12,7 +12,7 @@ def display_menu():
 
     print("1. Start website scanner")
     print("2. Info")
-    print("4. Exit")
+    print("3. Exit")
 
     print(colored("{:^69}".format("Github: https://github.com/josua-clp/Redflag-scanner\n"), "red"))
 
