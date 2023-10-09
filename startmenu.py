@@ -20,7 +20,7 @@ def get_user_choice():
     choice = input("Enter your choice (1-4): ")
     while choice not in ["1", "2", "3", "4"]:
         print("Invalid choice. Please enter a number between 1 and 3.")
-        choice = input("Enter your choice (1-4): \n")
+        choice = input("Enter your choice (1-3): \n")
     return int(choice)
 
 def display_info():
