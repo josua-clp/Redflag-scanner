@@ -1,7 +1,6 @@
 requests
 bs4
 lxml
-db-sqlite3
 configparser
 termcolor
 colored

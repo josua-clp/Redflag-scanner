@@ -260,15 +260,3 @@ check_sql_injection(url)
 check_xss(url)
 check_ddos_protection(url)
 check_website_info(url)
-
-
-
-
-
-
-
-
-
-
-
-
